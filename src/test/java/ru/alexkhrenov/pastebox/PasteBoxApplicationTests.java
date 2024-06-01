@@ -9,5 +9,4 @@ class PasteBoxApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
